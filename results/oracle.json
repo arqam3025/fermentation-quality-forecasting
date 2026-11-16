@@ -1,0 +1,7 @@
+{
+  "trivial_mean_mae": 28.95196533203125,
+  "oracle_mae_day5": 6.472024758656785,
+  "oracle_mae_day10": 5.971714142190194,
+  "oracle_mae_day15": 5.301804129780271,
+  "oracle_mae_day20": 5.045670436138979
+}

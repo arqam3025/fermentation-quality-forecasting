@@ -1,0 +1,82 @@
+{
+  "5": {
+    "Gradient boosting": {
+      "test_mae_mean": 27.516679997742916,
+      "test_mae_std": 0.0,
+      "interval_halfwidth_90": 53.53602178189814,
+      "test_coverage_90": 0.89375
+    },
+    "LSTM": {
+      "test_mae_mean": 26.67227300008138,
+      "test_mae_std": 0.026007765677463598,
+      "interval_halfwidth_90": 44.695491790771484,
+      "test_coverage_90": 0.86875
+    },
+    "Transformer": {
+      "test_mae_mean": 25.955225626627605,
+      "test_mae_std": 0.317165338186024,
+      "interval_halfwidth_90": 46.892578125,
+      "test_coverage_90": 0.86875
+    }
+  },
+  "10": {
+    "Gradient boosting": {
+      "test_mae_mean": 22.766050322545485,
+      "test_mae_std": 0.0,
+      "interval_halfwidth_90": 44.86951234733778,
+      "test_coverage_90": 0.84375
+    },
+    "LSTM": {
+      "test_mae_mean": 21.280358632405598,
+      "test_mae_std": 0.19487873187252447,
+      "interval_halfwidth_90": 49.060264587402344,
+      "test_coverage_90": 0.8875
+    },
+    "Transformer": {
+      "test_mae_mean": 24.718673706054688,
+      "test_mae_std": 1.4733453351358317,
+      "interval_halfwidth_90": 45.40585708618164,
+      "test_coverage_90": 0.875
+    }
+  },
+  "15": {
+    "Gradient boosting": {
+      "test_mae_mean": 11.890816534504683,
+      "test_mae_std": 0.0,
+      "interval_halfwidth_90": 31.254535038927614,
+      "test_coverage_90": 0.9125
+    },
+    "LSTM": {
+      "test_mae_mean": 11.840378443400065,
+      "test_mae_std": 0.4883833707066371,
+      "interval_halfwidth_90": 33.978946685791016,
+      "test_coverage_90": 0.9
+    },
+    "Transformer": {
+      "test_mae_mean": 13.84671433766683,
+      "test_mae_std": 3.4381176716500477,
+      "interval_halfwidth_90": 40.486392974853516,
+      "test_coverage_90": 0.93125
+    }
+  },
+  "20": {
+    "Gradient boosting": {
+      "test_mae_mean": 7.82966745557494,
+      "test_mae_std": 0.0,
+      "interval_halfwidth_90": 23.04224292700328,
+      "test_coverage_90": 0.9125
+    },
+    "LSTM": {
+      "test_mae_mean": 4.385006427764893,
+      "test_mae_std": 0.35399705956673927,
+      "interval_halfwidth_90": 10.013114929199219,
+      "test_coverage_90": 0.9125
+    },
+    "Transformer": {
+      "test_mae_mean": 5.177842775980632,
+      "test_mae_std": 0.3516612436212569,
+      "interval_halfwidth_90": 9.345909118652344,
+      "test_coverage_90": 0.875
+    }
+  }
+}
