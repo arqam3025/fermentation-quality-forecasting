@@ -7,7 +7,7 @@ honest error bar on that prediction?
 > Synthetic data. There are 800 simulated chemostat campaigns from
 > [`fermsim/simulator.py`](fermsim/simulator.py), with 6 hourly sensors, a slowly
 > spreading colonial C-variant, temperature excursions and plant drift. This was
-> built in November 2026, with AI assistance, as preparation for a PhD application.
+> built in November 2026 as preparation for a PhD application.
 
 ## Setup
 
